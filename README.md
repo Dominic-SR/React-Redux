@@ -1,3 +1,3 @@
 <h1>React Redux</h1>
-<p> Crud Operation using technology for react and state management tool redux </p>
+<p>CRUD Operation using Technology for React and Redux</p>
 
